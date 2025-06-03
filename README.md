@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm RASHI GUPTA 👋
 
 ## 🚀 Full Stack Developer | AI/ML Engineer | Tech Enthusiast
 
@@ -91,13 +91,6 @@ Welcome to my GitHub! I'm passionate about building scalable web applications an
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🎯 What I'm Learning
 
 - Advanced TypeScript patterns
@@ -117,4 +110,4 @@ Welcome to my GitHub! I'm passionate about building scalable web applications an
 
 💡 *"Building the future, one line of code at a time"*
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [YourUsername](https://github.com/rashigupta12)
