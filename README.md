@@ -1,113 +1,221 @@
-# Hi there, I'm RASHI GUPTA 👋
+<div align="center">
+  
+# 👋 Hey there! I'm **RASHI GUPTA**
 
-## 🚀 Full Stack Developer | AI/ML Engineer | Tech Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9945FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-Welcome to my GitHub! I'm passionate about building scalable web applications and leveraging AI to solve real-world problems. Currently pursuing B.Tech in AI & ML with a strong foundation in full-stack development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashigupta12&label=Profile%20views&color=9945FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rashigupta12?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-### 🔭 Currently Working On
-- Full Stack Development at **Gennext IT** (Feb 2025 - Present)
-- Building scalable web applications with React.js, Next.js, and PostgreSQL
-- Developing RESTful APIs and implementing clean architecture
-
-### 🌟 Recent Highlights
-- 🥈 **Runner-Up** at Smart India Hackathon 2023 (IoT-based Solar Monitoring)
-- 🥇 **Winner** at AICTE MoE India IDE Bootcamp 2024
-- 🏅 **"Best Girls Team"** at InnoHacks 2.0 for Blood-Bloom project
-- 👩‍🏫 **Mentor & Judge** at Solution Sprint 1.0 and Technopedia 1.0
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 **About Me**
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+```typescript
+const rashi = {
+    location: "India 🇮🇳",
+    education: "B.Tech in AI & ML 🎓",
+    currentFocus: ["Full Stack Development", "AI/ML Engineering", "System Design"],
+    askMeAbout: ["React", "Next.js", "Python", "Machine Learning", "PostgreSQL"],
+    funFact: "I debug code better with coffee ☕",
+    motto: "Building the future, one line of code at a time 💻"
+};
+```
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🔥 **Currently Working On**
+🌟 **Full Stack Developer** at **Gennext IT** (Feb 2025 - Present)  
+⚡ Building scalable web applications with **React.js**, **Next.js**, and **PostgreSQL**  
+🛠️ Developing RESTful APIs and implementing clean architecture patterns  
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 🏆 **Achievements & Recognition**
 
-### 🔸 Full Stack Developer Intern | Gennext IT (Feb 2025 - Present)
-- Developing scalable web applications using **React.js, Node.js, Next.js**
-- Working with **ShadCN UI, Drizzle ORM, PostgreSQL (Neon)**
-- Collaborating in agile teams to design RESTful APIs
+<div align="center">
+  
+| 🏅 **Achievement** | 🎯 **Event** | 📅 **Year** |
+|:------------------:|:------------:|:-----------:|
+| 🥈 **Runner-Up** | Smart India Hackathon 2023 | 2023 |
+| 🥇 **Winner** | AICTE MoE India IDE Bootcamp | 2024 |
+| 👑 **Best Girls Team** | InnoHacks 2.0 (Blood-Bloom) | 2024 |
+| 👩‍🏫 **Mentor & Judge** | Solution Sprint 1.0 | 2024 |
 
-### 🔸 Software Engineer Intern | Bobble AI (May 2024 - Nov 2024)
-- Built automated dashboard boosting operational **efficiency by 20%**
-- Enhanced data visualization and eliminated manual workflows
-- Achieved **99% customer satisfaction** through improved UX
-
-### 🔸 AI Trainee | IBM (July 2023 - August 2023)
-- Trained on core **AI concepts** and **machine learning algorithms**
-- Developed AI-driven prototypes using **Python** and **Scikit-learn**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ **Tech Arsenal**
 
-### 🩸 [Blood-Bloom - Health Awareness Platform](link-to-project)
-**Tech Stack:** HTML | JavaScript | Bootstrap | Machine Learning
-- Interactive mental health platform with ML-based disease prediction
-- **40% increase** in user engagement through intuitive UI
+<div align="center">
 
-### 📚 [Digital Logbook Management System](link-to-project)
-**Tech Stack:** Next.js | TypeScript | Drizzle ORM | ShadCN UI | PostgreSQL
-- Role-based academic tracking app for MBBS/PG students
-- Real-time workflows with Admin, Teacher, and Student functionalities
+### 💻 **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 💼 [Match My Job - Job Portal](link-to-project)
-**Tech Stack:** Next.js | TypeScript | PostgreSQL | Drizzle ORM | ShadCN UI
-- Full-stack job portal with multi-role access (Users, Recruiters, Admins)
-- Resume uploads, job applications, and comprehensive admin controls
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🏭 [VJ Metals - Manufacturing Website](link-to-project)
-**Tech Stack:** Next.js | ShadCN UI
-- Fast, SEO-optimized static website showcasing products and services
+### ⚙️ **Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🚗 [Car Price Prediction App](link-to-project)
-**Tech Stack:** Python | Machine Learning | Streamlit
-- Regression models with **Random Forest**, **20% accuracy improvement**
-- Real-time user interaction through Streamlit deployment
+### 🔧 **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🎯 What I'm Learning
-
-- Advanced TypeScript patterns
-- Cloud deployment strategies
-- AI/ML model optimization
-- System design principles
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 💼 **Professional Journey**
+
+<details>
+<summary><b>🔸 Full Stack Developer Intern | Gennext IT (Feb 2025 - Present)</b></summary>
+
+- 🚀 Developing scalable web applications using **React.js, Node.js, Next.js**
+- 🎨 Working with **ShadCN UI, Drizzle ORM, PostgreSQL (Neon)**
+- 🤝 Collaborating in agile teams to design RESTful APIs
+- 📈 Implementing clean architecture and best practices
+
+</details>
+
+<details>
+<summary><b>🔸 Software Engineer Intern | Bobble AI (May 2024 - Nov 2024)</b></summary>
+
+- 📊 Built automated dashboard boosting operational **efficiency by 20%**
+- 🎯 Enhanced data visualization and eliminated manual workflows
+- ⭐ Achieved **99% customer satisfaction** through improved UX
+- 🔄 Streamlined data processing workflows
+
+</details>
+
+<details>
+<summary><b>🔸 AI Trainee | IBM (July 2023 - August 2023)</b></summary>
+
+- 🧠 Trained on core **AI concepts** and **machine learning algorithms**
+- 🛠️ Developed AI-driven prototypes using **Python** and **Scikit-learn**
+- 📚 Gained hands-on experience with enterprise AI solutions
+
+</details>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+### 🩸 **Blood-Bloom - Health Awareness Platform**
+**Tech Stack:** `HTML` `JavaScript` `Bootstrap` `Machine Learning`
+> Interactive mental health platform with ML-based disease prediction  
+> **Impact:** 40% increase in user engagement through intuitive UI
+
+### 📚 **Digital Logbook Management System**
+**Tech Stack:** `Next.js` `TypeScript` `Drizzle ORM` `ShadCN UI` `PostgreSQL`
+> Role-based academic tracking app for MBBS/PG students  
+> **Features:** Real-time workflows with multi-role functionalities
+
+### 💼 **Match My Job - Job Portal**
+**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `ShadCN UI`
+> Full-stack job portal with multi-role access system  
+> **Features:** Resume uploads, job applications, admin controls
+
+### 🏭 **VJ Metals - Manufacturing Website**
+**Tech Stack:** `Next.js` `ShadCN UI`
+> Fast, SEO-optimized static website  
+> **Focus:** Performance optimization and modern design
+
+### 🚗 **Car Price Prediction App**
+**Tech Stack:** `Python` `Machine Learning` `Streamlit`
+> ML-powered price prediction with Random Forest  
+> **Achievement:** 20% accuracy improvement
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashigupta12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashigupta12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashigupta12&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 **Currently Learning & Exploring**
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Learning Path))
+    Advanced TypeScript
+      Design Patterns
+      Decorators
+      Generic Types
+    System Design
+      Microservices
+      Load Balancing
+      Caching Strategies
+    AI/ML
+      Deep Learning
+      Model Optimization
+      MLOps
+    Cloud Technologies
+      AWS/GCP
+      Kubernetes
+      CI/CD Pipelines
+```
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashigupta321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rashigupta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://rashigupta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashigupta821@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashigupta)
+
+</div>
 
 ---
 
-💡 *"Building the future, one line of code at a time"*
+<div align="center">
+  
+### 💫 **"Code is poetry written in logic"**
 
-⭐️ From [YourUsername](https://github.com/rashigupta12)
+
+<sub>⭐️ **Star my repositories if you find them helpful!** ⭐️</sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
