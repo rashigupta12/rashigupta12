@@ -120,7 +120,7 @@ const rashi = {
 
 ## 🚀 **Featured Projects**
 
-<div align="center">
+<div >
 
 ### 🩸 **Blood-Bloom - Health Awareness Platform**
 **Tech Stack:** `HTML` `JavaScript` `Bootstrap` `Machine Learning`
@@ -160,42 +160,6 @@ const rashi = {
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashigupta12&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 **Currently Learning & Exploring**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Advanced TypeScript
-      Design Patterns
-      Decorators
-      Generic Types
-    System Design
-      Microservices
-      Load Balancing
-      Caching Strategies
-    AI/ML
-      Deep Learning
-      Model Optimization
-      MLOps
-    Cloud Technologies
-      AWS/GCP
-      Kubernetes
-      CI/CD Pipelines
-```
-
-</div>
-
----
 
 ## 🤝 **Let's Connect & Collaborate!**
 
@@ -204,7 +168,6 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashigupta321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://rashigupta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashigupta821@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashigupta)
 
 </div>
 
