@@ -98,7 +98,7 @@ const rashi = {
 </details>
 
 <details>
-<summary><b>🔸 Software Engineer Intern | Bobble AI (May 2024 - Nov 2024)</b></summary>
+<summary><b>🔸 Software Engineer Intern | Bobble AI (May 2024 - Sept 2024)</b></summary>
 
 - 📊 Built automated dashboard boosting operational **efficiency by 20%**
 - 🎯 Enhanced data visualization and eliminated manual workflows
