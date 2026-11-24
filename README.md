@@ -5,7 +5,6 @@
 **Full-Stack Developer · New Delhi, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashigupta321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rashigupta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rashigupta821@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=rashigupta12&label=Profile+views&color=1A56A0&style=flat-square)](https://github.com/rashigupta12)
 
